@@ -1,5 +1,5 @@
 // Created by: Emmanuel-Fofeyin
-// Created on: May 2022
+// Created on: May something 2022
 //
 // This program accepts user input
 
